@@ -1,20 +1,35 @@
-# EXTINF: -1, eroxhd + (18)
-http://94.249.128.163:80/spi/eroxhd_0_1/ratus42.m3u8
-# EXTINF: -1, eroxxhd + (18)
-http://94.249.128.163:80/spi/eroxxhd_0_1/ratus42.m3u8
-Russian Night TV
-http://195.245.120.10:1690/udp/239.0.0.198:4000
-Egoist TV
-http://195.245.120.10:1690/udp/239.0.0.7:4000
-PlayBoy TV
-http://195.245.120.10:1690/udp/239.0.0.200:4000
-HUSTLER TV
-http://195.245.120.10:1690/udp/239.0.0.199:4000
-XXL (fr)
-http://109.87.145.164:8888/udp/238.0.0.210:1234
-Brasileirinhas (18)
-rtmp://$OPT:rtmp-raw=rtmp://edge-05.livestreamcast.org:1935/Brasileirinhas/Brasileirinhas/Brasileirinhas swfUrl=http://livestreamcast.org/StrobeMediaPlayback.swf pageUrl=http://livestreamcast.org/embeds.php?c=Brasileirinhas&vw=468&vh=380
-Playboy Latino
-rtmp://$OPT:rtmp-raw=rtmp://50.7.133.98:1935/iguide playpath=u5cbzsj8444896i swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDve
-Sexy Hot Tv Brazil
-rtmp://$OPT:rtmp-raw=rtmpe://89.248.168.130:443/share/sexhot-dgk0d live=1 pageUrl=http://www.sharecast.to/
+#EXTM3U
+#EXTINF:-1 ,DAVINCI
+http://185.180.12.90:8080/DAVINCI/index.m3u8?token=test
+#EXTINF:-1 ,DISCOVERYSCIENCE
+http://185.180.12.90:8080/DISCOVERYSCIENCE/index.m3u8?token=test
+#EXTINF:-1 ,FINELIVING
+http://185.180.12.90:8080/FINELIVING/index.m3u8?token=test
+#EXTINF:-1 ,FOXLIFE
+http://185.180.12.90:8080/FOXLIFE/index.m3u8?token=test
+#EXTINF:-1 ,HBO2 HD
+http://185.180.12.90:8080/HBO2/index.m3u8?token=test
+#EXTINF:-1 ,HISTORY
+http://185.180.12.90:8080/HISTORY/index.m3u8?token=test
+#EXTINF:-1 ,HUSTLER HD
+http://185.180.12.90:8080/HUSTLER/index.m3u8?token=test
+#EXTINF:-1 ,KANAL5
+http://185.180.12.90:8080/KANAL5/index.m3u8?token=test
+#EXTINF:-1 ,O2
+http://185.180.12.90:8080/O2/index.m3u8?token=test
+#EXTINF:-1 ,ORF1 HD
+http://185.180.12.90:8080/ORF1/index.m3u8?token=test
+#EXTINF:-1 ,PINK
+http://185.180.12.90:8080/PINK/index.m3u8?token=test
+#EXTINF:-1 ,PRO7 HD
+http://185.180.12.90:8080/PRO7/index.m3u8?token=test
+#EXTINF:-1 ,RTL2
+http://185.180.12.90:8080/RTL2/index.m3u8?token=test
+#EXTINF:-1 ,RTL
+http://185.180.12.90:8080/RTL/index.m3u8?token=test
+#EXTINF:-1 ,SPORT2 HD
+http://185.180.12.90:8080/SPORT2/index.m3u8?token=test
+#EXTINF:-1 ,SUPERRTL HD
+http://185.180.12.90:8080/SUPERRTL/index.m3u8?token=test
+#EXTINF:-1 ,TRAVEL
+http://185.180.12.90:8080/TRAVEL/index.m3u8?token=test
